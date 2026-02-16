@@ -27,3 +27,11 @@
 
 `end` <br>
 `write memory` <br>
+<img width="1125" height="835" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6033028c-4c2a-401c-ae4c-55285cef5208" />
+<img width="1118" height="830" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a989b61d-5df8-4f34-9e0a-f0fc28e9ad92" />
+<img width="1122" height="827" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1df448cd-bd6e-4808-9f0c-cb7e15e4b6fe" />
+
+
+
+
+
