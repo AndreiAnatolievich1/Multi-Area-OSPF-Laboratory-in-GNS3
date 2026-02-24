@@ -26,9 +26,10 @@
 `router1(conf-router)#router-id 1.1.1.1`  **Принудительно указываем OSPF использовать этот идентификатор. Должен совпадать с Loopback, чтобы было понятно.** <br>
 `router1(conf-router)#passive-interface g2/0`  **Принудительно указываем interface g2/0 пассивным** <br>
 `router1(conf-router)#area 1 stub no-summary` **объявляем, что зона 1 является тупиковой** <br>
-<img width="1119" height="887" alt="Screenshot_3" src="https://github.com/user-attachments/assets/700e20cb-761e-498c-8268-5107ac80db52" />
+<img width="1119" height="887" alt="Screenshot_3" src="https://github.com/user-attachments/assets/700e20cb-761e-498c-8268-5107ac80db52" /> <br>
 
-
+`В Wireshark после захвата трафика на линке видим  что роутеры обмениваются hello сообщениями` <br>
+<img width="1919" height="369" alt="Screenshot_4" src="https://github.com/user-attachments/assets/44fc7c1a-b1d5-4f2a-b14a-441669ffe799" />
 
 
 
