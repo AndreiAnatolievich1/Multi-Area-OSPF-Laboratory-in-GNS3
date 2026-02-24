@@ -13,4 +13,5 @@
 Освоить методы устранения проблем на разных уровнях модели OSI
 Анализировать таблицы маршрутизации и типы LSA
 ## `Топология сети`
-<img width="1919" height="991" alt="Screenshot_18" src="https://github.com/user-attachments/assets/60a3870b-48e4-4612-93db-cac904efdfdd" />
+<img width="1919" height="1001" alt="Screenshot_2" src="https://github.com/user-attachments/assets/55b171f3-383b-4f4f-8fc3-22367a9e13d6" />
+
